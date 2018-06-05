@@ -1,0 +1,6 @@
+E:\Downloads\EDSDKLib-1.1.2.2\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.dll
+E:\Downloads\EDSDKLib-1.1.2.2\EDSDKLib-1.1.2\EDSDKLib\bin\Debug\EDSDKLib.pdb
+E:\Downloads\EDSDKLib-1.1.2.2\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojAssemblyReference.cache
+E:\Downloads\EDSDKLib-1.1.2.2\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.csproj.CoreCompileInputs.cache
+E:\Downloads\EDSDKLib-1.1.2.2\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+E:\Downloads\EDSDKLib-1.1.2.2\EDSDKLib-1.1.2\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
